@@ -7,4 +7,4 @@ tags: [personal blog]
 
 ## My first ever blog post
 
-I've been thinking about starting a blog for a while now and I was procrastinating quite a bit :D. But, I finally did it and here I am writing my first ever blog post. 
+I've been thinking about starting a blog for a while now and I was procrastinating quite a bit :D. But, I finally did it and here I am writing my first ever blog post.
