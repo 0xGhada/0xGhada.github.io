@@ -8,5 +8,3 @@ tags: [hello world]
 # Hello My Frineds in My blog
   
   This Me , Ghada Abdelwahab.
-  
-  أهلا بكم يا أصدقاء
