@@ -7,8 +7,8 @@
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://linkedin.com/in/0xGhada'                  # Fill with your Linkedin homepage
 
-# - type: twitter
-#   icon: "fa-brands fa-x-twitter"
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
